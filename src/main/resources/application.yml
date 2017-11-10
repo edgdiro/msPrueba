@@ -1,0 +1,4 @@
+#Properties of the application
+ server:
+   port: 8082
+
